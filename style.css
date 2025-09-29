@@ -1,0 +1,12 @@
+section {
+    background-image: url('imagens/frame-iphone.png');
+    background-repeat: no-repeat;
+    width: 900px;
+    height: 700px;
+}
+
+iframe {
+    text-align: center;
+    height: 600px;
+    
+}
